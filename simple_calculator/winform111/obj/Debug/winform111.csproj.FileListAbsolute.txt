@@ -1,0 +1,10 @@
+C:\Users\Mirim\source\repos\winform111\winform111\bin\Debug\winform111.exe.config
+C:\Users\Mirim\source\repos\winform111\winform111\bin\Debug\winform111.exe
+C:\Users\Mirim\source\repos\winform111\winform111\bin\Debug\winform111.pdb
+C:\Users\Mirim\source\repos\winform111\winform111\obj\Debug\winform111.csproj.AssemblyReference.cache
+C:\Users\Mirim\source\repos\winform111\winform111\obj\Debug\winform111.Form1.resources
+C:\Users\Mirim\source\repos\winform111\winform111\obj\Debug\winform111.Properties.Resources.resources
+C:\Users\Mirim\source\repos\winform111\winform111\obj\Debug\winform111.csproj.GenerateResource.cache
+C:\Users\Mirim\source\repos\winform111\winform111\obj\Debug\winform111.csproj.CoreCompileInputs.cache
+C:\Users\Mirim\source\repos\winform111\winform111\obj\Debug\winform111.exe
+C:\Users\Mirim\source\repos\winform111\winform111\obj\Debug\winform111.pdb
